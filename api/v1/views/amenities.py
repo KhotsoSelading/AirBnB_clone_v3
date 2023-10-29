@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
 """
-The Amenity object responsible for managing standard RESTful API operations.
+The Amenity object responsible for managing standard RESTful API 
+operations.
 
-Author: 
-Khotso Selading and Londeka Dlamini
+Author:Khotso Selading and Londeka Dlamini
 """
 
 
