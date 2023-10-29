@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 """
-A view for Review instances that manages all standard
-RESTful API actions.
+A view for Review instances that manages all standard RESTful API actions.
 
 Authors:Khotso Selading and Londeka Dlamini
 """
